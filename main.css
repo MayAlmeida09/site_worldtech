@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: blue;
+    background-color: rgb(1, 1, 139);
     display: flex;
     margin-bottom: 16px;
     color: #ffffff;
@@ -36,7 +36,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: blue;
+    background-color: rgb(1, 1, 139);
     display: block;
 }
 
